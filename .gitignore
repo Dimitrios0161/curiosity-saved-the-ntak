@@ -2,3 +2,4 @@
 *.exe
 ProjectEuler/Rust/primes_gen/target/
 ProjectEuler/Rust/primes_gen/.cargo/
+ipynb/config.py
